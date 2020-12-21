@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="KeyboardButton">
+        <attr name="value" format="enum" >
+            <enum name="none" value="-999"></enum>
+            <enum name="backspace" value="-1"></enum>
+            <enum name="zero" value="0"></enum>
+            <enum name="one" value="1"></enum>
+            <enum name="two" value="2"></enum>
+            <enum name="three" value="3"></enum>
+            <enum name="four" value="4"></enum>
+            <enum name="five" value="5"></enum>
+            <enum name="six" value="6"></enum>
+            <enum name="seven" value="7"></enum>
+            <enum name="eight" value="8"></enum>
+            <enum name="nine" value="9"></enum>
+            <enum name="enter" value="999"></enum>
+        </attr>
+    </declare-styleable>
+</resources>

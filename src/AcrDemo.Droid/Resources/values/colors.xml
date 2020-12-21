@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <color name="primaryColor">#24b780</color>
+    <color name="primaryDarkColor">#008653</color>
+    <color name="primaryLightColor">#64eab0</color>
+
+    <color name="accentColor">#4c555a</color>
+    <color name="accentDarkColor">#242c31</color>
+    <color name="accentLightColor">#788187</color>
+
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#ffffff</color>
+
+    <color name="colorMainFont">#ffffff</color>
+    <color name="colorSecondaryFont">#cacaca</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="colorPrimary">#909390</color>
+    <color name="colorPrimaryDark">#4e524e</color>
+    <color name="colorAccent">#ff9393</color>
+    <!-- önemli yazılar için kullan -->
+    <color name="colorButtonNormal">#E0F2F1</color>
+    <color name="colorControlHighligth">#80cbc4</color>
+    <!-- butona tıklanıldığındaki ripple efecti -->
+    <color name="colorControlActivated">#e0f2f1</color>
+    <!-- checkbox,radio button çeklendiğinde -->
+    <color name="colorMain">#d8dfd8</color>
+    <color name="colorMainDark">#717471</color>
+    <color name="colorGuessNumber">#292f36</color>
+    <color name="colorPlusHit">#28fd28</color>
+    <color name="colorMinusHit">#ffFF00</color>
+    <color name="colorMissHit">#ff0000</color>
+    <color name="colorProfileBg">#e0f2f1</color>
+
+    <color name="colorPrimary_a">#7edad4</color>
+    <color name="colorPrimaryDark_a">#40a8a1</color>
+    <color name="colorAccent_a">#ff6b6b</color>
+    <color name="colorButtonNormal_a">#3a405a</color>
+    <color name="colorControlHighligth_a">#e8d264</color>
+    <color name="colorControlActivated_a">#fff3bc</color>
+    <color name="colorMain_a">#E1E8E1</color>
+    <color name="colorMainDark_a">#5a5d5a</color>
+    <color name="colorGuessNumber_a">#3c4148</color>
+    <color name="colorPlusHit_a">#8cb760</color>
+    <color name="colorMinusHit_a">#f3e37c</color>
+    <color name="colorMissHit_a">#e66262</color>
+
+    <color name="splashBackground">#80cbc1</color>
+</resources>
